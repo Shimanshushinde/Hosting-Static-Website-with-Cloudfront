@@ -1,5 +1,5 @@
 
-# Building a Static Website on AWS Using S3 Bucket,Route 53,Certificate Manager and CloudFront.
+# Hosting a Static Website on AWS Using S3 Bucket,Route 53,Certificate Manager and CloudFront.
 
 This guide outlines the steps to build and deploy a static website hosted on Amazon S3, integrating domain management through AWS Route 53. The project focuses on creating a scalable and reliable web presence, perfect for showcasing personal portfolios, blogs, or small web applications.
 
