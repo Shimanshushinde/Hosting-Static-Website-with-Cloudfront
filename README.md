@@ -6,6 +6,12 @@ This guide outlines the steps to build and deploy a static website hosted on Ama
 # Architecture of the Project
 ![Static website architecture](https://github.com/Shimanshushinde/Hosting-static-website-with-cloudfront/assets/137445826/10de2fc2-833b-4f3f-a9e2-7949b861375d)
 
+## Prerequisites
+Before proceeding, ensure the following:
+
+- AWS account with necessary permissions.
+- Familiarity with the AWS Management Console.
+- Familiarity with S3 Bucket,Route 53,Certificate Manager and CloudFront.
 
 ## Steps to Deploy
 ### Step 1: Design Your Website
