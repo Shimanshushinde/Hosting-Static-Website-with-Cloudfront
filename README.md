@@ -4,7 +4,7 @@
 This guide outlines the steps to build and deploy a static website hosted on Amazon S3, integrating domain management through AWS Route 53. The project focuses on creating a scalable and reliable web presence, perfect for showcasing personal portfolios, blogs, or small web applications.
 
 # Architecture of the Project
-![Static website architecture](https://github.com/Shimanshushinde/Hosting-static-website-with-cloudfront/assets/137445826/10de2fc2-833b-4f3f-a9e2-7949b861375d)
+![Static website hosting](https://github.com/Shimanshushinde/3-Tier-WebAap-Architecture/assets/137445826/52484e39-b515-400d-90d4-73f29d547dbe)
 
 ## Prerequisites
 Before proceeding, ensure the following:
